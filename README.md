@@ -1,5 +1,7 @@
 # Zvířátka
 
+zkouska spojeni git
+
 Tvým cílem je vyrobit aplikaci, která zobrazuje seznam zvířátek v ZOO. Když klikneš na zvířátko v seznamu, zobrazí se vpravo jeho detailní popis.
 
 Tentokrát není zadání postup krok za krokem, na poustu věcí si musíš přijít sama.
